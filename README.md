@@ -8,3 +8,9 @@ A customer wants to host a game server at home but cannot connect from the outsi
 - Configure port forwarding to the internal server
 - Test and verify connectivity
 
+### What We’re Doing:
+We will build a simple network to simulate a home environment:
+
+[PC0] ←→ [Switch0] ←→ [Router0] ←→ [Cloud/Router1]
+                      |
+                  [Server0]
