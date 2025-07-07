@@ -27,3 +27,4 @@ We will build a simple network to simulate a home environment:
 
 ![image](https://github.com/user-attachments/assets/5d81bc2a-e449-4f43-922e-5dcf16e640a6)
 
+![image](https://github.com/user-attachments/assets/3d133891-96dd-4ecf-b578-38e8a0c900c9)
