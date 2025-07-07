@@ -14,3 +14,6 @@ We will build a simple network to simulate a home environment:
 [PC0] ←→ [Switch0] ←→ [Router0] ←→ [Cloud/Router1]
                       |
                   [Server0]
+
+![image](https://github.com/user-attachments/assets/a9c2ea97-782f-4450-8121-73136d7fd037)
+
