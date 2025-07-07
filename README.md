@@ -21,7 +21,7 @@ This lab simulates a **real-world scenario** an ISP Field Technician or Junior N
 ## ✅ **Step 1: Initial Topology**
 
 ![image](https://github.com/user-attachments/assets/a9c2ea97-782f-4450-8121-73136d7fd037)
-Shows Router0, Switch0, PC0, and Server0 placed in the workspace and connected logically.
+Shows Router0, Switch0, PC0, and Server0 placed in the workspace.
 
 ---
 
